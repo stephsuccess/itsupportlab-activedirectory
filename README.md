@@ -15,15 +15,19 @@ This is a step by step guide on how to set up an Active Directoy home lab based 
 
 ## Create a new virtual machine by clicking on "New" in VirtualBox, naming it "Domain Controller," and selecting the "Windows Server 2019" ISO file as the boot media.
 
-![](attachments/Pasted%20image%2020230402145533.png)
+<img width="659" height="579" alt="Pasted image 20230402145533" src="https://github.com/user-attachments/assets/88e32e79-2a78-48f9-ac4c-dfd17fd4afd0" />
 
-![](attachments/Pasted%20image%2020230402145610.png)
+
+<img width="598" height="542" alt="Pasted image 20230402145610" src="https://github.com/user-attachments/assets/98973513-446d-4d32-bbcc-42b3e139a1d7" />
+
 
 ##  Configure the virtual machine by giving it two network adapters: one for connecting to the internet and the other for the private network.
 
-![](attachments/Pasted%20image%2020230402145806.png)
+<img width="695" height="578" alt="Pasted image 20230402145806" src="https://github.com/user-attachments/assets/ddbd2391-0fae-46d2-a86e-f9e931c5a0ec" />
 
-![](attachments/Pasted%20image%2020230402145820.png)
+
+<img width="696" height="576" alt="Pasted image 20230402145820" src="https://github.com/user-attachments/assets/2654cf73-5346-4c19-bc31-30a65ecb4dea" />
+
 
 ##  Install Server 2019 on the virtual machine and assign IP addressing for the internal network.
 
