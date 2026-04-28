@@ -1,7 +1,8 @@
 [README.md](https://github.com/user-attachments/files/27150476/README.md)
 # How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell
 
-This is a step by step guide on how to set up an Active Directoy home lab based on the training by Josh Madakor. 
+This is a step by step guide on how to set up an Active Directoy home lab based on the training by  [Josh Madakor](https://www.youtube.com/@JoshMadakor)
+
 
 ## Diagram
 ![Diagram](active_directory_diagram.jpg)
