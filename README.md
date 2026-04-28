@@ -31,21 +31,25 @@ This is a step by step guide on how to set up an Active Directoy home lab based 
 
 ##  Install Server 2019 on the virtual machine and assign IP addressing for the internal network.
 
-![](attachments/Pasted%20image%2020230402150458.png)
+<img width="638" height="267" alt="Pasted image 20230402150458" src="https://github.com/user-attachments/assets/ff2ca736-f556-4ba8-a847-9dcaa80f7fe2" />
 
-![](attachments/Pasted%20image%2020230402150538.png)
+
+<img width="396" height="454" alt="Pasted image 20230402150538" src="https://github.com/user-attachments/assets/e985d611-fdb8-4bf8-af42-ade76e37e49a" />
+
 ##  Name the server and install Active Directory to create the domain.
-![](attachments/Pasted%20image%2020230402150727.png)
 
-![](attachments/Pasted%20image%2020230402153253.png)
+<img width="784" height="562" alt="Pasted image 20230402150727" src="https://github.com/user-attachments/assets/b9f8c2a7-dba9-4312-99cb-2a93a0b4e01f" />
+
+<img width="1350" height="774" alt="Pasted image 20230402153253" src="https://github.com/user-attachments/assets/2b4f1616-a508-4238-aa97-40fd5c6ac326" />
+
 
 ##  Configure routing so that clients on the private network can access the internet through the domain controller.
+<img width="618" height="444" alt="Pasted image 20230402154123" src="https://github.com/user-attachments/assets/df569b53-f822-4655-8f38-be2caa70776d" />
 
-![](attachments/Pasted%20image%2020230402153829.png)
+<img width="787" height="557" alt="Pasted image 20230402153904" src="https://github.com/user-attachments/assets/095d277f-78f2-4f03-bfea-636eaafdef96" />
 
-![](attachments/Pasted%20image%2020230402153904.png)
+<img width="1496" height="755" alt="Pasted image 20230402153829" src="https://github.com/user-attachments/assets/99913c9a-c93a-4558-a8f1-c42f9e00d998" />
 
-![](attachments/Pasted%20image%2020230402154123.png)
 
 ##  Set up DHCP on the domain controller.
 ![](attachments/Pasted%20image%2020230402154312.png)
